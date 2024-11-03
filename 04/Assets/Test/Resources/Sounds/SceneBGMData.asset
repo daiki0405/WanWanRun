@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e3341b1ba1c1406baeb9a594bf9231e, type: 3}
+  m_Name: SceneBGMData
+  m_EditorClassIdentifier: 
+  sceneBGMs:
+  - sceneName: Game
+    bgm: {fileID: 8300000, guid: 4d5b66a5ba3da42fe8e39e72001f2a80, type: 3}
+  - sceneName: Gacha
+    bgm: {fileID: 8300000, guid: 7c80d5237d89a4ffe97a7a3a8813a40f, type: 3}
+  - sceneName: CharacterSerect
+    bgm: {fileID: 8300000, guid: 7c80d5237d89a4ffe97a7a3a8813a40f, type: 3}
+  - sceneName: Title
+    bgm: {fileID: 8300000, guid: 7c80d5237d89a4ffe97a7a3a8813a40f, type: 3}
